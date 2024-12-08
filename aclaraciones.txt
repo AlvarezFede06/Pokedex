@@ -1,0 +1,6 @@
+usuarios de la bdd (todos los usuarios tienen permisos de admin):
+
+admin 123456
+test test
+
+En funciones.php dentro de la funcion conectarDB, esta el puerto para configurarlo, por defecto esta en el 3306
